@@ -25,3 +25,6 @@ Execute o projeto:
 
 No Visual Studio, pressione Ctrl + F5 ou vá até Depurar > Iniciar sem Depuração.
 O Selenium iniciará o navegador configurado e executará os testes automaticamente.
+
+
+OBS: Altere o username e o password de acordo com o usuário que for acessar a plataforma.
